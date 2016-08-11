@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+img {
+	height: 100%;
+	width: auto;
+	padding; 10px;
+	image-orientation: from-image;
+}
+
+video {
+	height: 100%;
+	width: auto;
+	padding; 10px;
+}	
+
+div {
+	padding: 10px;
+	margin: 10px;
+}
+
+#container {
+	height: 1200px;
+	width: 1000px;
+}
+
+#header {
+	height: 50px;
+	width: 200px;
+	float: left;
+	display: block;
+}
+
+#statement {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+
+#images {
+	position: absolute;
+	left: 275px;
+}
+
+#cups {
+	height: 500px;
+	width: 880px;
+	overflow-y: hidden;
+	overflow-x: scroll;
+	white-space: nowrap;
+}
+
+#bigger {
+	height: 500px;
+	width: 880px;
+	overflow-y: hidden;
+	overflow-x: scroll;
+	white-space: nowrap;
+}
+
+	
